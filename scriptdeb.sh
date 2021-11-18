@@ -14,17 +14,17 @@ wget https://download.anydesk.com/linux/anydesk_6.1.1-1_amd64.deb
 
 wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
-sudo dpkg -i *
+#sudo dpkg -i *
 
-#sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
 
-#sudo dpkg -i anydesk_6.1.1-1_amd64.deb
+sudo dpkg -i anydesk_6.1.1-1_amd64.deb
 
-#sudo dpkg -i rocketchat_3.1.1_amd64.deb
+sudo dpkg -i rocketchat_3.1.1_amd64.deb
 
-#sudo dpkg -i teamviewer_amd64.deb
+sudo dpkg -i teamviewer_amd64.deb
 
-#sudo dpkg -i nextcloud-desktop_2.6.2-1build1_amd64.deb
+sudo dpkg -i nextcloud-desktop_2.6.2-1build1_amd64.deb
 
 sudo apt install -f 
 
