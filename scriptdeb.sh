@@ -34,4 +34,4 @@ sudo apt upgrade -y
 
 sudo apt-get install -y network-manager-openvpn network-manager-openvpn-gnome network-manager-pptp network-manager-vpnc
 
-sudo apt-get install gnome-system-tools
+sudo apt-get install -y gnome-system-tools
