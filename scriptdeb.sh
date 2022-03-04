@@ -14,7 +14,6 @@ wget https://download.anydesk.com/linux/anydesk_6.1.1-1_amd64.deb
 
 wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
-#sudo dpkg -i *
 
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
